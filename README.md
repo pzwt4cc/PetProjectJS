@@ -31,3 +31,9 @@
 ## Design Ideas
 
 - Material style (без суворого дизайну, доопрацьовуємо в процесі)
+
+### Example style:
+
+- ![Приклад 1](./notes/1.png)
+- ![Приклад 2](./notes/2.jpg)
+- ![Приклад 3](./notes/3.jpg)
